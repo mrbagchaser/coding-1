@@ -1,0 +1,15 @@
+# Datatypes.py variable activity input output Camel case pascal case
+
+#i think that a code repositroy is like your place to write your code on 
+
+
+# the keyborad is a input because it reciving the action into the keyborad
+
+
+
+
+
+
+
+
+
